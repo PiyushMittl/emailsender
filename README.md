@@ -19,7 +19,7 @@ provide following:
 the following dependency is only required.
 
 ```xml
-		<dependency>
+	<dependency>
 			<groupId>javax.mail</groupId>
 			<artifactId>mail</artifactId>
 			<version>1.4</version>
