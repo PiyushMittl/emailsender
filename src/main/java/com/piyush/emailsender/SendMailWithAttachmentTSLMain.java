@@ -87,7 +87,7 @@ public class SendMailWithAttachmentTSLMain {
         String host = "smtp.gmail.com";
         String port = "587";
         String mailFrom = "pm31121988@gmail.com";
-        String password = "Sweetls2607@";
+        String password = "***@";
  
         // message info
         String mailTo = "mr.piyushmittal@rediffmail.com";
