@@ -19,7 +19,7 @@ public class SendMailWithoutAttachmentTLSMain{
 	public static void main(String[] args) {
 
 		final String username = "pm31121988@gmail.com";
-		final String password = "Sweetls2607@";
+		final String password = "***@";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
